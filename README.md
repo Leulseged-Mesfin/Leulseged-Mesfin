@@ -24,7 +24,7 @@ I am a Computer Engineer | ML Engineer | Maker.
 
 ### Tools That I Use
 
-![linux][linux-icon] ![pop_os][pop_os-icon] ![brave][brave-icon] ![vscode][vscode-icon] ![vim][vim-icon]
+![linux][linux-icon] ![brave][brave-icon] ![vscode][vscode-icon] ![vim][vim-icon]
 
 ![python][python-icon] ![javascript][javascript-icon] ![cpp][cpp-icon] ![solidity][solidity-icon] ![html][html-icon] ![css][css-icon] ![bootstrap][bootstrap-icon]
 
@@ -32,11 +32,9 @@ I am a Computer Engineer | ML Engineer | Maker.
 
 ![kafka][kafka-icon] ![airflow][airflow-icon] ![spark][spark-icon]
 
-![flask][flask-icon] ![fastapi][fast-api-icon] ![node][node-icon]
+![django][django-icon] ![flask][flask-icon] ![fastapi][fast-api-icon] ![node][node-icon]
 
 ![mysql][mysql-icon] ![postgress][postgress-icon] ![mongodb][mongo-icon] ![redis][redis-icon] ![dbt][dbt-icon]
-
-![react][react-icon] ![react-native][react-native-icon] ![streamlit][streamlit-icon]
 
 ![GitHub-Actions][github-action-icon] ![docker][docker-icon]
 
