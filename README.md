@@ -32,7 +32,7 @@ I am a Computer Engineer | ML Engineer | Maker.
 
 ![kafka][kafka-icon] ![airflow][airflow-icon] ![spark][spark-icon]
 
-![flask][flask-icon] ![fastapi][fast-api-icon] ![node][node-icon] ![django][django-icon]
+![flask][flask-icon] ![fastapi][fast-api-icon] ![node][node-icon]
 
 ![mysql][mysql-icon] ![postgress][postgress-icon] ![mongodb][mongo-icon] ![redis][redis-icon] ![dbt][dbt-icon]
 
