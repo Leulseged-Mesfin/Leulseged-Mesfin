@@ -1,11 +1,10 @@
-# Hi, I'm Henok 👋
+# Hi, I'm Leulseged 👋
 
 I am a Computer Engineer | ML Engineer | Maker.
 
 - 🔭 I’m currently building my portfolio with 10 Academy
 - 🌱 I’m learning ML engineering, MLOps, Data Engineering, and a little bit of WEB 3.
 - 📫 I love playing video games, listening to podcasts and coding
-- ⚡ Check out my recent [Blogs](https://medium.com/@tilaye.henok/)
 
 <!-- ## GitHub Stats -->
 
