@@ -40,12 +40,9 @@ I am a Computer Engineer | ML Engineer | Maker.
 
 ![GitHub-Actions][github-action-icon] ![docker][docker-icon]
 
-![ethereum][ethereum-icon]
-
 #### 📣 You can reach me at
 
-<a href="https://www.linkedin.com/in/henok-tilaye-b18840151/" target="_blank"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=flat&logo=linkedin&logoColor=white"/></a>&nbsp;<a href="https://twitter.com/hen0k1"><img src="https://img.shields.io/badge/twitter-1DA1F2.svg?style=flat&logo=twitter&logoColor=white"/></a>&nbsp;<a href="https://medium.com/@tilaye.henok" target="_blank"><img src="https://img.shields.io/badge/Medium-12100E?style=flat&logo=medium&logoColor=white"/></a> &nbsp;
-  
+<a href="https://www.linkedin.com/in/leulsegedmesfin/" target="_blank"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=flat&logo=linkedin&logoColor=white"/></a>&nbsp;<a 
 <br />
 
 [linux-icon]: https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black
