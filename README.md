@@ -11,13 +11,6 @@ I am a Computer Engineer | ML Engineer | Maker.
 <!-- ![Henok's github stats](https://github-readme-stats-eight-theta.vercel.app/api?username=Hen0k&show_icons=true&theme=react&include_all_commits=true&count_private=true&hide_border=true&bg_color=060B0D")
 ![Stream count](https://github-readme-streak-stats.herokuapp.com/?user=Hen0k&theme=black-ice&hide_border=true&stroke=0000&background=060B0D)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hen0k&layout=compact&theme=algolia) -->
-## GitHub Stats
-
-<p align="left">
-  <a href="https://github.com/Leulseged-Mesfin">
-    <img width="400px" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Hen0k&show_icons=true&theme=react&include_all_commits=true&count_private=true&hide_border=true&bg_color=060B0D"/>
-    <img width="400px" src="https://github-readme-streak-stats.herokuapp.com/?user=Hen0k&theme=black-ice&hide_border=true&stroke=0000&background=060B0D">
-  </a>
 
 <!-- ![activity-graph](https://activity-graph.herokuapp.com/graph?username=Hen0k&theme=minimal) -->
 <!-- ![another-graph](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Hen0k&theme=2077&include_all_commits=true&count_private=true) -->
