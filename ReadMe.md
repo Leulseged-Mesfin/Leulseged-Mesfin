@@ -1,5 +1,5 @@
-# 💫 About Me:
-Hi, I'm Leulseged Mesfin 👋<br>I am a Back-End Developer | Machine Learning Engineer<br><br>🔭 Currently working in web development, focusing on building Secure and Scalable Applications.<br><br>🌱 Getting into the world of Machine Learning Engineering, MLOps, and Data Engineering.
+# Hi, I'm Leulseged Mesfin
+<br>I am a Back-End Developer | Machine Learning Engineer<br><br>🔭 Currently working in web development, focusing on building Secure and Scalable Applications.<br><br>🌱 Getting into the world of Machine Learning Engineering, MLOps, and Data Engineering.
 
 
 ## 🌐 Socials:
